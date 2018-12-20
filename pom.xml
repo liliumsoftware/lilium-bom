@@ -6,7 +6,7 @@
 
     <groupId>com.github.liliumsoftware</groupId>
     <artifactId>lilium-parent</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
 
     <description>Parent for all projects</description>
     <url>https://github.com/liliumsoftware/lilium-parent</url>
@@ -21,7 +21,7 @@
     <scm>
         <connection>scm:git:git@github.com:liliumsoftware/lilium-parent.git</connection>
         <url>https://github.com/liliumsoftware/lilium-parent</url>
-        <tag>HEAD</tag>
+        <tag>3.0.0</tag>
     </scm>
 
     <developers>
