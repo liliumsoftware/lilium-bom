@@ -54,7 +54,7 @@
 
         <icu4j.version>63.1</icu4j.version>
         <prettytime.version>4.0.2.Final</prettytime.version>
-        <tika.version>1.19.1</tika.version>
+        <tika.version>1.22</tika.version>
         <dynamicreports.version>6.0.0</dynamicreports.version>
         <hibernate.version>5.4.0.Final</hibernate.version>
         <hibernate.validator.version>6.0.13.Final</hibernate.validator.version>
